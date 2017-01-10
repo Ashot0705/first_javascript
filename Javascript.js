@@ -1,5 +1,6 @@
-var tution = 11000;
-var livingCost = 8000;
-var totalCost = tution + livingCost;
-
-console.log("$" + totalCost)
+var age =11
+if (age<10) {
+	alert("this variable is less than 10")
+} else {
+	alert("the variable was" + age + " " + "you are too old")
+}
